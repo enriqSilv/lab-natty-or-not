@@ -1,51 +1,34 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
+Esste Lab foi produzido de um fork do repositório da DIO, e é inspirado na hype _"Natty or Not"_ do fisiculturismo.
 
-> Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Usando IA's para a produção de Conteudos
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Ao decorrer do curso ChatGPT for Devs, o desafio foi criar três projetos fantasticos usando apenas ferramentas de Inteligencia Artificial. 
+    1. Artigo Desenvolvido por IA <br/>
+        Este projeto foi produzido com a finalidade de criar um artigo que foi escrito totalmente por IA e imagens também geradas por ela. Você pode acessar: https://github.com/enriqSilv/Article-With-ChatGPT-Lexica <br/>
+        <br/>
+    2. Ebook Desenvolvido por IA <br/>
+        Este projeto foi produzido com a finalidade de criar um Ebook que foi escrito totalmente por IA e imagens também geradas por ela. Você pode acessar: https://github.com/enriqSilv/ebook-Wich-ChatGPT-midjourney <br/>
+        <br/>
+    3. Podcast Desenvolvido por IA <br/>
+        Este projeto foi produzido com a finalidade de criar um Podcast que foi escrito e narrado totalmente por IA e imagens também geradas por ela. Você pode acessar: https://github.com/enriqSilv/Podcast-Wich-ChatGPT-ElevenLabs <br/>
+
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+**Podcast-Wich-ChatGPT-ElevenLabs:** Projeto com objetivo de gerar um podcast totalmente gerado por IA, onde a narração é feita por IA também.<br/>
+**Tecnologias utilizadas no projeto:** ChatGPT, MidJourney, ElevenLabs e Capcut.<br/>
+<br/>
+**ebook-Wich-ChatGPT-midjourney:** Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA.<br/>
+**Tecnologias utilizadas no projeto:** ChatGPT, MidJourney e PowerPoint<br/>
+<br/>
+**Article-With-ChatGPT-Lexica:** Projeto artigo técnico gerado por I.A.s<br/>
+**Tecnologias utilizadas no projeto:** ChatGPT, Lexica.art e PowerPoint<br/>
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Todo o contéudo foi criado baseado nas aulas do Curso ChatGPT for Devs, que você pode acessar: https://www.dio.me/curso-chat-gpt-for-devs
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
